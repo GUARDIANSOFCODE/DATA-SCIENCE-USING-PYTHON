@@ -54,7 +54,7 @@ This repository highlights various projects in the field of Data Science utilizi
 ## 📚 Learning Resources
 - **Pandas Documentation**: [Pandas Docs](https://pandas.pydata.org/docs/)
 - **Machine Learning**: 
-  - [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning)
+  - [Coursera - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
   - [Kaggle - Learn](https://www.kaggle.com/learn)
 
 ## 🔗 Related Repositories
