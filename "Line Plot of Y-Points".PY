@@ -8,4 +8,4 @@ ypoints = np.array([3, 8, 1, 10, 5, 7])
 plt.plot(ypoints)
 
 # Show the plot
-plt.show()
+plt.show()   
