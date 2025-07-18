@@ -8,7 +8,7 @@ data = [
     ["Alice", 30, "Los Angeles"],
     ["Bob", 22, "Chicago"]
 ]
-
+     
 # Using csv module
 with open("output_csv.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
