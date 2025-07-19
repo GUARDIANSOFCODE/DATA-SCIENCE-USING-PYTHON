@@ -8,7 +8,7 @@ y = np.sin(x)  # y is the sine of x
 
 # Initialize a list to store filtered data
 filtered_x = []
-filtered_y = []
+filtered_y = [].   
 
 # Loop through the data to apply conditions with break and continue
 for i in range(len(x)):
