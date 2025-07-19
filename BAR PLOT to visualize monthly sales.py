@@ -8,3 +8,4 @@ plt.xlabel("Months")
 plt.ylabel("Sales")
 plt.legend()
 plt.show()    
+    
