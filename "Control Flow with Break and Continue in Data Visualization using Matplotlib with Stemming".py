@@ -4,7 +4,7 @@ import numpy as np
 import nltk
 from nltk.stem import PorterStemmer
 
-# Download the NLTK data for the first time
+# Download the NLTK data for the first time 
 nltk.download('punkt')
 
 # Sample text data for stemming demonstration
