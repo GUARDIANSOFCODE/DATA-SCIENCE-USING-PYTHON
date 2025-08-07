@@ -13,7 +13,7 @@ plt.figure()
 plt.subplot(1, 2, 1)  # Specifies the grid layout (1 row, 2 columns), and this is the first subplot
 plt.plot(x, y1, marker='o')  # Example plot for the first subplot
 plt.title("Data Trend Visualization")  # Title for the first subplot
-plt.xlabel("X-axis")
+plt.xlabel("X-axis") 
 plt.ylabel("Y-axis")
 
 # Second subplot: 1 row, 2 columns, second plot
