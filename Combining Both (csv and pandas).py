@@ -14,7 +14,7 @@ with open("output_csv.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
     writer.writerows(data)
 
-# Using pandas
+# Using pandas 
 df = pd.DataFrame({
     "name": ["John", "Alice", "Bob"],
     "age": [25, 30, 22],
