@@ -3,7 +3,7 @@ import numpy as np
 
 # Create a figure and axis for the plots
 plt.figure(figsize=(8, 6))
-
+ 
 # Plot 1:
 x1 = np.array([0, 1, 2, 3])
 y1 = np.array([3, 8, 1, 10])
